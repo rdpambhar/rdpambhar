@@ -1,4 +1,4 @@
-### Hi there this is Ronak Pambhar! 👋
+# Hi there this is Ronak Pambhar! 👋
 <br>
 <img align="right" alt="GIF" src="https://www.iihglobal.com/wp-content/uploads/2019/02/dcsad-1.gif" width="500" height="320" />
 
@@ -10,7 +10,8 @@
 - ✨ My dream is to put my skills and knowledge gained into use and make something productive that can solve problems our world is dealing with
 - 🐤 Fun Fact: Engineering student but happy (Trying to be funny)
 
-## Languages and Tools:
+#### Languages and Tools:
 
 <P align="left">
 <a href="https://expressjs.com" target="_blank"> <img src="https://img.icons8.com/external-becris-flat-becris/64/000000/external-machine-learning-data-science-becris-flat-becris.png"/> </a>
+<a href="https://expressjs.com" target="_blank"> <img src="https://img.icons8.com/external-becris-flat-becris/64/000000/external-deep-learning-artificial-intelligence-becris-flat-becris.png"/> </a>
