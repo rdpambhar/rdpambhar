@@ -20,4 +20,3 @@
 <a href="https://expressjs.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/opencv.png"/> </a>
 <a href="https://expressjs.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/artificial-intelligence.png"/> </a>
 <a href="https://expressjs.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/tensorflow.png"/> </a>  
-<a href="https://expressjs.com" target="_blank"> <img src="https://w7.pngwing.com/pngs/571/118/png-transparent-keras-logo-thumbnail.png"/> </a>  
