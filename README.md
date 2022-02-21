@@ -3,7 +3,7 @@
 <img align="right" alt="GIF" src="https://www.iihglobal.com/wp-content/uploads/2019/02/dcsad-1.gif" width="500" height="320" />
 
 - 💙 I love developing and researching
-- 🌱 now, I am student of International Automotive Engineering in Technische Hochschule Ingolstadt, Germany
+- 🌱 Now, I am student of International Automotive Engineering in Technische Hochschule Ingolstadt, Germany
 - 🍀 Curretly doing a course on neural networks and deep learning
 - 🤔 I’m looking for Working Student / Internship.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ronak-pambhar-993a861a7/)
