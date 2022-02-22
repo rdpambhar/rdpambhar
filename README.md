@@ -14,14 +14,9 @@
 
 <P align="left">
   
-<a href="https://expressjs.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python--v2.png"/> </a> 
-  
+<a href="https://expressjs.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python--v2.png"/> </a> </a> 
 <a href="https://expressjs.com" target="_blank"> <img src="https://img.icons8.com/external-becris-flat-becris/64/000000/external-machine-learning-data-science-becris-flat-becris.png"/> </a>
-  
 <a href="https://expressjs.com" target="_blank"> <img src="https://img.icons8.com/external-becris-flat-becris/64/000000/external-deep-learning-artificial-intelligence-becris-flat-becris.png"/> </a>
-  
 <a href="https://expressjs.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/opencv.png"/> </a>
-  
 <a href="https://expressjs.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/artificial-intelligence.png"/> </a>
-  
 <a href="https://expressjs.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/tensorflow.png"/> </a>  
