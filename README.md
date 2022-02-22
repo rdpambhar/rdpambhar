@@ -1,4 +1,4 @@
-# Hi there this is Ronak Pambhar! 👋
+# Hi, there this is Ronak Pambhar! 👋
 <br>
 <img align="right" alt="GIF" src="https://www.iihglobal.com/wp-content/uploads/2019/02/dcsad-1.gif" width="500" height="320" />
 
