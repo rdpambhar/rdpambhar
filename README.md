@@ -5,7 +5,7 @@
 - 💙 I love developing and researching
 - 🌱 I am student of International Automotive Engineering in Technische Hochschule Ingolstadt, Germany
 - 🍀 Curretly doing a course on neural networks and deep learning
-- 🤔 I’m looking for Working Student / Internship.
+- 🤔 I’m looking for Working Student / Internship / Thesis / Full-time job.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ronak-pambhar-993a861a7/)
 - ✨ My dream is to put my skills and knowledge gained into use and make something productive that can solve problems our world is dealing with
 - 🐤 Fun Fact: Engineering student but happy (Trying to be funny)
